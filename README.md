@@ -31,4 +31,4 @@ If you have suggestions for improvements or would like to contribute, please fee
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details.
