@@ -15,7 +15,7 @@ This repository contains the files used in my online portfolio. The portfolio is
 
 ## Getting Started
 
-To view the portfolio, simply visit [your GitHub Pages link here].
+To view the portfolio, simply visit [here](https://sreeraj-s.github.io/my-portfolio).
 
 ## Roadmap
 
